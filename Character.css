@@ -1,0 +1,29 @@
+.Character-container{
+    border:1px solid;
+    margin: 10%;
+    
+}
+.Character-header{
+    text-align: center;
+    font-size: xx-large;
+}
+.Character-body{
+    display:inline-flex;
+    flex-flow: row wrap;
+    margin-bottom: 30px;
+}
+
+.column{
+    border:1px solid;
+}
+
+.Character-button{
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid ;
+    margin: 10px;
+}
+button{
+    margin: 10px;
+}
